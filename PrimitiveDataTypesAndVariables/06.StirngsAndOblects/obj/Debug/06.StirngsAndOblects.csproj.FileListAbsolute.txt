@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\06.StirngsAndOblects\bin\Debug\06.StirngsAndOblects.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\06.StirngsAndOblects\bin\Debug\06.StirngsAndOblects.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\06.StirngsAndOblects\bin\Debug\06.StirngsAndOblects.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\06.StirngsAndOblects\obj\Debug\06.StirngsAndOblects.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\06.StirngsAndOblects\obj\Debug\06.StirngsAndOblects.pdb

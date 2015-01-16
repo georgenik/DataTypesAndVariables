@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\11.BankAccData\bin\Debug\11.BankAccData.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\11.BankAccData\bin\Debug\11.BankAccData.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\11.BankAccData\bin\Debug\11.BankAccData.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\11.BankAccData\obj\Debug\11.BankAccData.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\11.BankAccData\obj\Debug\11.BankAccData.pdb

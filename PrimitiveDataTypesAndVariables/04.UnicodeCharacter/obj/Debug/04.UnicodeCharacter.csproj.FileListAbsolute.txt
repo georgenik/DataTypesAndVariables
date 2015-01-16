@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\bin\Debug\04.UnicodeCharacter.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\04.UnicodeCharacter\obj\Debug\04.UnicodeCharacter.pdb

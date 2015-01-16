@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\03.VriableInHexadecimal\bin\Debug\03.VriableInHexadecimal.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\03.VriableInHexadecimal\bin\Debug\03.VriableInHexadecimal.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\03.VriableInHexadecimal\bin\Debug\03.VriableInHexadecimal.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\03.VriableInHexadecimal\obj\Debug\03.VriableInHexadecimal.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\03.VriableInHexadecimal\obj\Debug\03.VriableInHexadecimal.pdb

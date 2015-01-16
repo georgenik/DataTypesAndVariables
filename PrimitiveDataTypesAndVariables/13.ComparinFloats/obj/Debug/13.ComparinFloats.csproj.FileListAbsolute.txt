@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\13.ComparinFloats\bin\Debug\13.ComparinFloats.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\13.ComparinFloats\bin\Debug\13.ComparinFloats.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\13.ComparinFloats\bin\Debug\13.ComparinFloats.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\13.ComparinFloats\obj\Debug\13.ComparinFloats.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\13.ComparinFloats\obj\Debug\13.ComparinFloats.pdb

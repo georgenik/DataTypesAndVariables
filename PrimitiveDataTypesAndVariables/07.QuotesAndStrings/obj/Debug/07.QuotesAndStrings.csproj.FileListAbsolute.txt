@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\07.QuotesAndStrings\bin\Debug\07.QuotesAndStrings.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\07.QuotesAndStrings\obj\Debug\07.QuotesAndStrings.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\07.QuotesAndStrings\obj\Debug\07.QuotesAndStrings.pdb

@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\05.BoleanVariable\bin\Debug\05.BoleanVariable.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\05.BoleanVariable\bin\Debug\05.BoleanVariable.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\05.BoleanVariable\bin\Debug\05.BoleanVariable.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\05.BoleanVariable\obj\Debug\05.BoleanVariable.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\05.BoleanVariable\obj\Debug\05.BoleanVariable.pdb

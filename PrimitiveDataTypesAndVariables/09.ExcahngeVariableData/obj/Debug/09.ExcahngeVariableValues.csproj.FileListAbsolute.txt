@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\09.ExcahngeVariableData\bin\Debug\09.ExcahngeVariableData.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\09.ExcahngeVariableData\bin\Debug\09.ExcahngeVariableData.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\09.ExcahngeVariableData\bin\Debug\09.ExcahngeVariableData.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\09.ExcahngeVariableData\obj\Debug\09.ExcahngeVariableData.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\09.ExcahngeVariableData\obj\Debug\09.ExcahngeVariableData.pdb

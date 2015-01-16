@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\14.ASCIITablePrint\bin\Debug\14.ASCIITablePrint.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\14.ASCIITablePrint\bin\Debug\14.ASCIITablePrint.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\14.ASCIITablePrint\bin\Debug\14.ASCIITablePrint.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\14.ASCIITablePrint\obj\Debug\14.ASCIITablePrint.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\14.ASCIITablePrint\obj\Debug\14.ASCIITablePrint.pdb

@@ -1,0 +1,5 @@
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\08.IsoscelesTriangles\bin\Debug\08.IsoscelesTriangles.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\08.IsoscelesTriangles\bin\Debug\08.IsoscelesTriangles.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\08.IsoscelesTriangles\bin\Debug\08.IsoscelesTriangles.pdb
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\08.IsoscelesTriangles\obj\Debug\08.IsoscelesTriangles.exe
+C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\08.IsoscelesTriangles\obj\Debug\08.IsoscelesTriangles.pdb

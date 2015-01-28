@@ -3,3 +3,6 @@ C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTy
 C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.pdb
 C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
 C:\Users\georgi\Desktop\Telerik domashno\2.DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb
+C:\Users\georgi\Desktop\Telerik domashno\02.DataTypesAndVariables\DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\bin\Debug\12.NullValuesArithmetic.exe.config
+C:\Users\georgi\Desktop\Telerik domashno\02.DataTypesAndVariables\DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.exe
+C:\Users\georgi\Desktop\Telerik domashno\02.DataTypesAndVariables\DataTypesAndVariables\PrimitiveDataTypesAndVariables\12.NullValuesArithmetic\obj\Debug\12.NullValuesArithmetic.pdb
